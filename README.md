@@ -1,4 +1,4 @@
-# FeedZy <h1>Phaser Game<h1/>
+# FeedZy Phaser Game
 
 
   
