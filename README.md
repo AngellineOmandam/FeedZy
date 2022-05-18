@@ -1,6 +1,6 @@
-# FeedZy
+# FeedZy <h1>Phaser Game<h1/>
 
-<h1>Phaser Game<h1/>
+
   
  <h1>Member<h1/>
  <p>Angelline Omandam<p/>
